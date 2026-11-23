@@ -1,0 +1,6 @@
+{
+  "name": "Korsholm — Architectural & Acoustic Engineering",
+  "description": "Mass-timber architecture, room acoustics, and low-carbon civic engineering practice in Copenhagen and Zurich.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
